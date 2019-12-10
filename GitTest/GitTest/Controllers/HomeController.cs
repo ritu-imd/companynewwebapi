@@ -10,7 +10,7 @@ namespace GitTest.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page12";
+            ViewBag.Title = "Home Page125";
 
             return View();
         }
